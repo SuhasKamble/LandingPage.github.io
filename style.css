@@ -17,11 +17,24 @@ body{
 }
 #time{
     font-size: 9rem;
-
+    color: white;
 }
 h1 span{
     outline: none;
     color: black;
+}
+h1{
+    /* font-size: 1.7rem; */
+    color: white;
+}
+h2{
+    color: white;
+}
+#greeting{
+    color: white;
+}
+#name{
+    color: white;
 }
 
 @media  (max-width: 600px){
@@ -32,8 +45,15 @@ h1 span{
     }
     h1{
         font-size: 1.7rem;
-        color: white;}
+        color: white;
+    }
     h2{
+        color: white;
+    }
+    #greeting{
+        color: white;
+    }
+    #name{
         color: white;
     }
     body{
