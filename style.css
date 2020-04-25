@@ -37,7 +37,7 @@ h1 span{
         color: black;
     }
     body{
-        background-color: black;
-        /* background: url('/images/morning.jpg') no-repeat center center / cover; */
+        /* background-color: black; */
+        background: url('/images/morning.jpg') no-repeat center center / cover;
     }
 }
