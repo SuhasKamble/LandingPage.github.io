@@ -32,13 +32,12 @@ h1 span{
     }
     h1{
         font-size: 1.7rem;
-        color: white;
-    }
+        color: white;}
     h2{
         color: white;
     }
     body{
         background-color: black;
-        background: url('/images/morning.jpg') no-repeat center center / cover;
+        /* background: url('/images/morning.jpg') no-repeat center center / cover; */
     }
 }
