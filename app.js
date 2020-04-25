@@ -64,7 +64,7 @@ function bg(){
     let currentHours = time.getHours();
     if(currentHours<12){
         
-        greeting.textContent='Good Evening'
+        greeting.textContent='Good Morning'
     }
     else if(currentHours<18){
     
