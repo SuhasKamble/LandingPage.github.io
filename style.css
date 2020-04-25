@@ -12,7 +12,7 @@ body{
     justify-content: center;
     text-align: center;
     font-family: 'Quicksand', sans-serif;
-    color: white;
+    color: black;
     background: url('/images/evening.jpg') no-repeat center center/cover;
 }
 #time{
