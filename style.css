@@ -28,16 +28,16 @@ h1 span{
     #time{
         
         font-size: 5.5rem;
-        color: black;
+        color: white;
     }
     h1{
         font-size: 1.7rem;
-        color: black;}
+        color: white;}
     h2{
-        color: black;
+        color: white;
     }
     body{
         /* background-color: black; */
-        background: url('evening.jpg') no-repeat center center / cover;
+        /* background: url('evening.jpg') no-repeat center center / cover; */
     }
 }

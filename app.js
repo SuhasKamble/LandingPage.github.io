@@ -63,15 +63,15 @@ function bg(){
     let time = new Date()
     let currentHours = time.getHours();
     if(currentHours<12){
-        
+        document.body.style.backgroundImage=`url('morning.jpg')`
         greeting.textContent='Good Morning'
     }
     else if(currentHours<18){
-    
+        document.body.style.backgroundImage=`url('afternoon.jpg')`
         greeting.textContent='Good Afternoon'
     }
     else{
-        
+        document.body.style.backgroundImage=`url('evening.jpg')`
         greeting.textContent='Good Evening'
     }
 }
