@@ -38,6 +38,6 @@ h1 span{
     }
     body{
         /* background-color: black; */
-        background: url('./images/evening.jpg') no-repeat center center / cover;
+        background: url('evening.jpg') no-repeat center center / cover;
     }
 }
