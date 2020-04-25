@@ -39,5 +39,6 @@ h1 span{
     }
     body{
         background-color: black;
+        background: url('/images/evening.jpg');
     }
 }
